@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085332228243",
+    "project_id": "e-market-fe294",
+    "storage_bucket": "e-market-fe294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085332228243:android:4f1ee1595da9caaacaa566",
+        "android_client_info": {
+          "package_name": "com.example.e_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085332228243-hfaqphjgd794m6jck8paavkas5kukbpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNAMo8m16oGjZxzBt_-JjV1ZjdhLjjjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085332228243-hfaqphjgd794m6jck8paavkas5kukbpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
